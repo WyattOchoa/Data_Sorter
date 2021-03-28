@@ -1,5 +1,5 @@
 # Data_Sorter
-Simple Data Sorter Application
+Simple Data Sorting Application using pandas and tkinter
 Built in Python 3
 
 --------------------------------------------------------------------------------------------------------------------------------------
