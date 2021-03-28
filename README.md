@@ -7,7 +7,7 @@ Versions:
 
 1.0 Contains first build of GUI and main. Separated with no functionality to the GUI
 
-1.1 (Current): Contains full project build with .exe application
+1.1 (main.py): Contains full project build with .exe application
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 User Guide:
